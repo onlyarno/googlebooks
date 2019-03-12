@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/2Krafty/google-books/issues"
   },
-  "homepage": "https://github.com/2Krafty/google-books#readme",
+  "homepage": "https://github.com/2Krafty/google-books",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express": "^4.16.4",
@@ -32,7 +32,6 @@
     "nodemon": "^1.18.10"
   },
   "devDependencies": {
-    "eslint": "^5.15.1",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0"
   }
